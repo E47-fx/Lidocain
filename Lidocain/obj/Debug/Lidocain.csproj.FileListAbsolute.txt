@@ -1,0 +1,13 @@
+C:\Users\blear\source\repos\Lidocain\Lidocain\bin\Debug\Lidocain.exe.config
+C:\Users\blear\source\repos\Lidocain\Lidocain\bin\Debug\Lidocain.exe
+C:\Users\blear\source\repos\Lidocain\Lidocain\bin\Debug\Lidocain.pdb
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.csprojAssemblyReference.cache
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.Form1.resources
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.Properties.Resources.resources
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.csproj.GenerateResource.cache
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.csproj.CoreCompileInputs.cache
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.exe
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.pdb
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.HENbox.resources
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.dumpsize.resources
+C:\Users\blear\source\repos\Lidocain\Lidocain\obj\Debug\Lidocain.Form2.resources
