@@ -32,14 +32,14 @@ namespace Lidocain
                 {
                     if (ftpStream.CanRead)
                     {
-                        //if (ftpStream.CanWrite)
-                        //{
+                        if (ftpStream.CanWrite)
+                        {
                             using (Stream fileStream = File.Create(fileName))
                             {
                                 ftpStream.CopyTo(fileStream);
                             }
-                        //}
-                        //else MessageBox.Show("Could not write file into target directory.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                        else MessageBox.Show("Could not write file into target directory.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                     else MessageBox.Show("Could not read file from the PS3", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
