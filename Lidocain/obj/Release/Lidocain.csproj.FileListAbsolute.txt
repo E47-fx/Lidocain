@@ -1,0 +1,13 @@
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.csprojAssemblyReference.cache
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.dumpsize.resources
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.Form1.resources
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.Form2.resources
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.HENbox.resources
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.csproj.GenerateResource.cache
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\bin\Release\Lidocain.exe.config
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\bin\Release\Lidocain.exe
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\bin\Release\Lidocain.pdb
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.Properties.Resources.resources
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.csproj.CoreCompileInputs.cache
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.exe
+C:\Users\blear\OneDrive\Desktop\Lidocain-master\Lidocain\obj\Release\Lidocain.pdb

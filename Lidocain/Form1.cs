@@ -59,7 +59,7 @@ namespace Lidocain
             {
                 play.Load(play.mediaFile);
                 play.Play();
-                MessageBox.Show("Specify a fucking ip address", "bruh", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Specify a ip address", "bruh", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 play.Dispose();
             }
             else if (ccapi.Checked)
@@ -113,7 +113,7 @@ namespace Lidocain
                 status.Text = "Dump retrieved!";
                 if(rbt.Checked)
                 {
-                    string res = "";
+                    string res = string.Empty;
                     if (sftrbt.Checked)
                         WebMAN.Power(WebMAN.PowerFlag.SoftReboot, out res);
                     else if(hrdrbt.Checked)

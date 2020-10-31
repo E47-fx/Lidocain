@@ -67,7 +67,7 @@
             this.okdaddybtn.Name = "okdaddybtn";
             this.okdaddybtn.Size = new System.Drawing.Size(75, 23);
             this.okdaddybtn.TabIndex = 2;
-            this.okdaddybtn.Text = "OK Daddy";
+            this.okdaddybtn.Text = "OK";
             this.okdaddybtn.UseVisualStyleBackColor = false;
             this.okdaddybtn.Click += new System.EventHandler(this.okdaddybtn_Click);
             // 

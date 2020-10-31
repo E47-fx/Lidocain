@@ -22,7 +22,6 @@ namespace Lidocain
         public static IPAddress IP;
         private static Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
         private static WebClient cl = new WebClient();
-        private static bool Parsed = false;
 
         public enum Port
         {
@@ -36,13 +35,11 @@ namespace Lidocain
             {
                 if (IPAddress.TryParse(ipAddress, out IP))
                 {
-                    Parsed = true;
                     sock.Connect(IP, (int)port);
                     if (sock.Connected)
                         return true;
                     else
                     {
-                        Parsed = false;
                         IP = null;
                         return false;
                     }
@@ -86,7 +83,6 @@ namespace Lidocain
         {
             if (sock.Connected)
             {
-                Parsed = false;
                 sock.Disconnect(false);
                 return sock.Connected ? -1 : 0;
             }
